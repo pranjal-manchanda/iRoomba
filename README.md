@@ -15,7 +15,7 @@ Random Robot:
 
 <img src="images/randomRobot.gif">
 
-The program finishes by comparing the run times of the 2 robots with varying number of robots and also various aspect ratios within a rectangular room:
+The program finishes by comparing the run times with varying number of robots and different aspect ratios within a rectangular room:
 
 Number of Robots:
 
