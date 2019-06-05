@@ -19,8 +19,8 @@ The program finishes by comparing the run times of the 2 robots with varying num
 
 Number of Robots:
 
-<img src="images/numRobots.PNG">
+<img src="images/numRobots.png">
 
 Aspect Ratio:
 
-<img src="images/aspectRatio.PNG">
+<img src="images/aspectRatio.png">
