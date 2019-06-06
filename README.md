@@ -25,4 +25,4 @@ Aspect Ratio:
 
 <img src="images/aspectRatio.png">
 
-*Some accessory open source code imported from MIT OCW
+**Some accessory open source code imported from MIT OCW*
