@@ -24,3 +24,5 @@ Number of Robots:
 Aspect Ratio:
 
 <img src="images/aspectRatio.png">
+
+*Some accessory open source code imported from MIT OCW
