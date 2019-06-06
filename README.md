@@ -7,21 +7,21 @@ The program creates and implements the functionality of 2 types of robotic vaccu
   
 Program implements a visual representation of the 2 robots cleaning a rectangular room object:
 
-#### Standard Robot:
+### Standard Robot:
 
 <img src="images/standardRobot.gif">
 
-#### Random Robot:
+### Random Robot:
 
 <img src="images/randomRobot.gif">
 
 The program finishes by comparing the run times with varying number of robots and different aspect ratios within a rectangular room:
 
-##### Number of Robots:
+#### Number of Robots:
 
 <img src="images/numRobots.png">
 
-##### Aspect Ratio:
+#### Aspect Ratio:
 
 <img src="images/aspectRatio.png">
 
